@@ -1,2 +1,3 @@
-# FAKE
-Fake Account Knowledge Assistant (FAKE)
+# FAKE ![](https://img.shields.io/badge/-Live-darkgreen)
+
+**Fake Account Knowledge Explorer (FAKE)**
